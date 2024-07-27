@@ -1,3 +1,4 @@
+# Big shout out to Tim Tech for the guide!
 import random
 
 MAX_LINES = 3
