@@ -1,11 +1,11 @@
-# Simple Casino Game 🎰
+# Simple Casino Game 
 
 Welcome to the **Simple Casino Game**! This is a Python-based slot machine simulator where you can deposit money, place bets, and spin the reels to try your luck. The game is designed to be simple, fun, and easy to understand.
 Special thanks to Tim for the clear and educational guide!
 
 ---
 
-## Features ✨
+## Features 
 - **Deposit System**: Start by depositing money into your account.
 - **Customizable Bets**: Choose how much to bet on each line.
 - **Multiple Lines**: Bet on up to 3 lines for more chances to win.
@@ -15,7 +15,7 @@ Special thanks to Tim for the clear and educational guide!
 
 ---
 
-## How to Play 🕹️
+## How to Play 
 1. **Deposit Money**: Start by depositing an amount of your choice.
 2. **Choose Lines**: Select how many lines you want to bet on (1-3).
 3. **Place Your Bet**: Enter the amount you want to bet on each line.
@@ -25,7 +25,7 @@ Special thanks to Tim for the clear and educational guide!
 
 ---
 
-## Code Structure 🧩
+## Code Structure 
 The game is built using Python and consists of the following key functions:
 
 ### 1. **Deposit**
